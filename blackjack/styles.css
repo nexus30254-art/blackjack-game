@@ -1,0 +1,29 @@
+body{
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+   background-image: url("./images/img1.avif");
+   background-size: cover;
+   text-align: center;
+}
+h1{
+  color: goldenrod;
+  font-size: 3rem;
+}
+.text{
+  font-size: 2rem;
+  color: #ffffff;
+  font-weight: bold;
+}
+.btn{
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
+#btn2{
+  margin top: 20px
+}
+
